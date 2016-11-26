@@ -9,4 +9,3 @@ for c in sword:
             print(chr(ord(c)+2), end="")
     else:
         print(c, end="")
-
